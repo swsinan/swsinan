@@ -1,4 +1,10 @@
+## 👋 About Me
 
+- 🐧 Aspiring Linux Developer
+- 💻 Learning C, Bash, Python & Rust
+- 🛠️ Building open-source projects
+- 🚀 Future goal: Create my own Linux distribution
+- 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@swsinan) 
 
